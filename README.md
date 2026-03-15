@@ -1,4 +1,5 @@
-# pedagogias-y-diseno-dis8940
+# dis8940-2026-1
+Pedagogías y Diseño
 
 ## data
 
