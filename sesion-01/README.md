@@ -2,7 +2,7 @@
 
 2026-03-10
 
-vimos un diagrama de Venn, el centro pedagogías, al rededor: cultura visual, diseño(procesos de cambio social), teorías post feministas, educación
+![Diagrama de Venn, el centro pedagogías, al rededor: cultura visual, diseño(procesos de cambio social), teorías post feministas, educación](./imgs/venn-pedagogia.png)
 
 cuando pensamos en diseño también pensar en sujetos que tienen habilidades corporales distintas, sobre todo en la educación, donde se suele pensar en la "normalidad"
 
@@ -56,7 +56,7 @@ cuando pensemos desde el diseño el ámbito pedagógico, pensar como mis decisio
 
 vimos una imagen
 
-![]()
+![Imagen de niños siendo "socializados" por una institución educativa](./imgs/ilust-contra-socializacion.png)
 
 los niños vienen de la contra socialización, y la escuela los "socializa"
 
@@ -85,3 +85,13 @@ Leer o hojear "la escuela como máquina de educar"
 - Inés Dussel
 - Pablo Pineau
 - Marcelo Caruso
+
+## links relevantes
+
+- [La Escuela según Pierre Bourdieu(Youtube)](https://youtu.be/3mChkak7_3A?si=QVK9cI6N9cNV9DMS)
+
+- La historia de la Sexualidad. Michel Foucault.
+
+- Michel Foucault, filósofo. E. Balbier et al.
+
+- ¿Qué es un dispositivo? Giorgio Agamben.
