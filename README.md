@@ -1,6 +1,11 @@
 # dis8940-2026-1
 Pedagogías y Diseño
 
+Víctor Rocha & Martha Haase
+
+- victor.rocha@mail.udp.cl
+- martha.haase@mail.udp.cl
+
 ## data
 
 3 evaluaciones:
