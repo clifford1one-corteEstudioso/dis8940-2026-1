@@ -1,4 +1,4 @@
-# La Escuela como Máquina de Educar.
+# La Escuela como Máquina de Educar
 
 Hojear el libro [La Escuela como Máquina de Educar.](../bibliografia/la-escuela-como-maquina-de-educar-extracto.pdf). Escrito por Inés Dussel, Pablo Pineau, Marcelo Caruso.
 
@@ -11,13 +11,16 @@ Dado que te encuentras en un ramo de **especialización de 5to año** que vincul
 Desde la perspectiva de las fuentes, aquí están los puntos clave que se espera que rescates:
 
 ### 1. La Escuela como un "Objeto de Diseño" Social (Desnaturalización)
+
 El punto de partida fundamental es la **desnaturalización**. Como diseñadores, se espera que dejen de ver la escuela como parte del "paisaje" natural y empiecen a "describir el camello",. El texto sostiene que la escuela no es el resultado lógico de la evolución humana, sino una **construcción histórica y social**,,. Para un estudiante de diseño, esto significa entender que cada elemento de la escuela (desde el pupitre hasta el timbre) fue una **decisión de diseño** y no una necesidad biológica.
 
 ### 2. La Anatomía de la "Máquina de Educar"
+
 El autor enumera 17 "piezas" que se ensamblaron para crear el modelo escolar. Desde tu especialidad, estas piezas pueden verse como los **requerimientos y componentes de un sistema**:
-*   **Uso del espacio y el tiempo:** La escuela utiliza unidades "muy tabicadas" y separadas (trabajo vs. juego, docente vs. alumno) para lograr resultados específicos,.
-*   **Dispositivos de disciplinamiento:** El diseño de objetos como el **pupitre**, el ordenamiento en filas y la creación de espacios diferenciados son tecnologías diseñadas para producir "cuerpos dóciles".
-*   **Descontextualización:** La escuela "diseña" un saber propio (el contenido escolar), recortando y graduando el conocimiento académico para que encaje en la estructura de la máquina.
+
+* **Uso del espacio y el tiempo:** La escuela utiliza unidades "muy tabicadas" y separadas (trabajo vs. juego, docente vs. alumno) para lograr resultados específicos,.
+* **Dispositivos de disciplinamiento:** El diseño de objetos como el **pupitre**, el ordenamiento en filas y la creación de espacios diferenciados son tecnologías diseñadas para producir "cuerpos dóciles".
+* **Descontextualización:** La escuela "diseña" un saber propio (el contenido escolar), recortando y graduando el conocimiento académico para que encaje en la estructura de la máquina.
 
 | # | Pieza del Ensamblaje | Descripción según las fuentes |
 | :--- | :--- | :--- |
@@ -42,17 +45,19 @@ El autor enumera 17 "piezas" que se ensamblaron para crear el modelo escolar. De
 Esta estructura permitió que la escuela se consolidara como la **forma educativa hegemónica** de la modernidad, logrando resistir los cambios de contexto a través de la fortaleza de su "texto" interno,.
 
 ### 3. La Relación "Texto/Contexto" y la Resistencia del Diseño
+
 Un concepto avanzado que el profe podría evaluar es por qué el **"texto escolar"** (la lógica interna de la escuela) ha sido tan eficaz que logró sobrevivir a pesar de que el **"contexto"** (sistemas políticos, económicos y sociales) cambió radicalmente. Esto plantea una pregunta de diseño de sistemas: ¿Qué hace que una estructura sea tan robusta que resista siglos de cambios externos?.
 
 ### 4. El Diseño de la Subjetividad (Quién es el "Usuario")
+
 El texto explica cómo la escuela "diseñó" a su usuario principal: la **infancia moderna**. Se construyó un sujeto pedagógico, el "alumno", definido por su "incompletud" y su necesidad de ser "completado" por la educación,,. También se diseñó el rol del docente como un "ejemplo de conducta" y, en el positivismo, casi como un "robot enseñante" fundido en el método,.
 
 ### 5. La Crisis de la Forma Escolar como Oportunidad de Rediseño
-Al ser un ramo de 5to año, el cierre del texto es vital: estamos en una **crisis de la forma educativa escolar**. El autor sugiere que seguimos usando la escuela (el "camello") porque es lo que conocemos para "atravesar el desierto", pero aclara que **no es el único animal posible**. 
+
+Al ser un ramo de 5to año, el cierre del texto es vital: estamos en una **crisis de la forma educativa escolar**. El autor sugiere que seguimos usando la escuela (el "camello") porque es lo que conocemos para "atravesar el desierto", pero aclara que **no es el único animal posible**.
 
 **Lo que el profe espera que rescates es:**
 Si la escuela es una máquina diseñada que hoy está en crisis, **¿cuáles son los nuevos componentes o sistemas que, desde la pedagogía y el diseño, podemos proponer?** Para diseñar el futuro, primero deben ser capaces de desarmar y entender las piezas de la máquina que heredamos,.
-
 
 ## yo
 
