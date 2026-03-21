@@ -62,6 +62,10 @@ entre el siglo XIX y XX se centraron esfuerzo en que la población aprenda a lee
 
 nos entregan un sobrecito con citas.
 
+![Plana 1 de la guía](./imgs/guia-citas-1.jpg)
+
+![Plana 2 de la guía](./imgs/guia-citas-2.jpg)
+
 - ¿qué conceptos asociados al triunfo de la escuela moderna puede encontrarse en los fragmentos leídos?
 - ¿cómo puede relacionarlo al concepto de escuela actual?
 

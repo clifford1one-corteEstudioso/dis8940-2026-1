@@ -28,8 +28,12 @@ este es un ejercicio meta cognitivo. Analiza las citas y rellena el recuadro
 
 ### actividad
 
-![imagen de la guía](./imgs/ficha-de-sistematizacion)
+actividad que hicimos con la cami
 
+![imagen de la guía plana de citas](./imgs/guia-1.jpg)
+
+![imagen de la guía plana rellenable](./imgs/guia-2.jpg)
+ 
 propuesta: "La pedagogía es una disciplina teórico-práctica, cuyo campo incluye: el estudio de las dinámicas entre persona que enseña y persona siendo enseñada; y el estudio de la metodología y campo de la enseñanza a lo largo de la historia. Asimismo la pedagogía se hace cargo de la relación entre personas y su formación hacia una sociedad pretendida."
 
 paradigma: creencia sustentadas.
