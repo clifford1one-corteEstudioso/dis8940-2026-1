@@ -37,3 +37,15 @@ promueve motricidad fina, coordinacioón mano-ojo, resolución de problemas, etc
 elegir un juguete y reformularlo para adolecentes.
 
 Soy con la cami, elegimos la caja de los secretos(cajita de cerraduras)
+
+entregables:
+
+2 láminas tabloide
+
+    - imagen del objeto de referencia, y el estudio que tomaron en consideración para abordar el rediseño
+    - mostrar proceso de creación del rediseño,. Indicar: descripción del usuarios y descripción de la problemática. Incluir contexto de uso. Incluir croquis y paleta de colores. (Incluir parámetros de educación constructivista en lo que nos basamos)
+
+prototipo del rediseño, del material o forma.
+
+- ![](./imgs/pedagogia-constructivista.jpg)
+- ![](./imgs/pedagogia-constructivista-2.jpg)
